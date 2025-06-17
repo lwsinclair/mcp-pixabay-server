@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zhangzhenfei-mcp-pixabay-server-badge.png)](https://mseep.ai/app/zhangzhenfei-mcp-pixabay-server)
+
 # MCP Pixabay Server
 
 [![npm version](https://img.shields.io/npm/v/@sadais/mcp-pixabay-server.svg)](https://www.npmjs.com/package/@sadais/mcp-pixabay-server)
